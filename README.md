@@ -30,6 +30,7 @@ These files and steps helped recover such devices and bring them back to life.
 
 ## 🛠 Recovery Method (High-Level)
 Download file: **TP-Link_v5_Openwrt_Recovery.zip**
+Password: **nullone**
 
 1. Set a **static IP** on your PC  
 2. Use **TFTP recovery mode**  
